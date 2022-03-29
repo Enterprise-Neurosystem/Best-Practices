@@ -15,6 +15,9 @@ The goal of the governance team is to expand upon the Community Charter with a s
 - Troy Nelson - Red Hat
 - Dinesh Verma - IBM
 
+# Meetings
+Workgroup meetings are held on Thursdays at 9:30pm GMT/2:30pm PDT. Please contact Audrey Reznik for dial-in information.
+
 # Community Charter
 
 ## Project Mission & Scope
