@@ -3,7 +3,7 @@ Repository for docs pertaining to our Enterprise Neurosystem community governanc
 
 This repository will be used to keep track of meetings and discussions in the working group of governance for the enterprise neurosystem platform, and the files presented in the meetings.
 
-The goal of the governance team is to present a set of easy to use/understand standards that will not impede code development.
+The goal of the governance team is to expand upon the Community Charter with a set of working guidelines and onboarding materials for technical contributors.
 
 # Governance team members
 - Audrey Reznik - Governance lead - Red Hat
