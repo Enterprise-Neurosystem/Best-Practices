@@ -6,7 +6,7 @@ This repository will be used to keep track of meetings and discussions in the wo
 The goal of the governance team is to expand upon the Community Charter with a set of working guidelines and onboarding materials for technical contributors.
 
 # Governance team members
-- Audrey Reznik - Governance lead - Red Hat
+- Audrey Reznik - Governance lead - Red Hat - areznik@redhat.com
 - Andy Poling - Kove
 - Bill Wright - Red Hat
 - Erik Erlandson - Red Hat
@@ -16,7 +16,7 @@ The goal of the governance team is to expand upon the Community Charter with a s
 - Dinesh Verma - IBM
 
 # Meetings
-Workgroup meetings are held on Thursdays at 9:30pm GMT/2:30pm PDT. Please contact Audrey Reznik for dial-in information.
+Workgroup meetings are held biweekly on Thursdays at 9:30pm GMT/2:30pm PDT. Please contact Audrey Reznik for dial-in information.
 
 # Community Charter
 
