@@ -11,7 +11,6 @@ The goal of the governance team is to expand upon the Community Charter with a s
 - Bill Wright - Red Hat
 - Erik Erlandson - Red Hat
 - John Overton - Kove
-- Lisa Caywood - Red Hat
 - Troy Nelson - Red Hat
 - Dinesh Verma - IBM
 
