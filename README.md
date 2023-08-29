@@ -6,16 +6,16 @@ This repository will be used to keep track of meetings and discussions in the wo
 The goal of the governance team is to expand upon the Community Charter with a set of working guidelines and onboarding materials for technical contributors.
 
 # Governance team members
-- Audrey Reznik - Governance lead - Red Hat - areznik@redhat.com
+
 - Andy Poling - Kove
-- Bill Wright - Red Hat
+- Bill Wright - Red Hat (bwright@redhat.com)
 - Erik Erlandson - Red Hat
 - John Overton - Kove
 - Troy Nelson - Red Hat
 - Dinesh Verma - IBM
 
 # Meetings
-Workgroup meetings are held biweekly on Thursdays at 9:30pm GMT/2:30pm PDT. Please contact Audrey Reznik for dial-in information.
+Workgroup meetings are held biweekly on Thursdays at 9:30pm GMT/2:30pm PDT. Please contact Bill Wright (bwright@redhat.com) for dial-in information.
 
 # Community Charter
 
@@ -85,7 +85,7 @@ _Voting Procedures_
  * If a Governing Board Voter misses 4 or more meetings in a row, with or without a proxy, the Governing Board may remove that individual and replace them with someone with greater availability for the remainder of their term.
  * Elections and any other voting decisions require a quorum of 50% of voting members. Voting can be held during Board meetings, or by electronic means within a specified time period.
 
-Amendments to this or Policy documents require a majority vote of the Governing Board.
+Amendments to this or Policy documents require a majority vote of the Governing Board. 
 
 ## Community Assets and Intellectual Property
 
@@ -102,3 +102,6 @@ Contributors will comply with the policies adopted by the Governing Board of Ent
  * Terms of Use
  * Trademark and Branding Policy
 
+## Amendment 1
+
+A Governing Board vote regarding a new amendment was conducted on October 4th, 2022. This amendment was initiated based on concerns regarding continuity of board leadership that would end on an annual basis, when five year roadmaps and project commitments were being discussed with the United Nations/UNFCCC. The board decided the best course of action to preserve this key relationship while maintaining ethical compliance was to collectively resign, and conduct a new open community vote for a new board. This newly elected board would have the same headcount and responsibilities as the prior board, and operate under the same governance framework and open source principles, but would extended board positions from a one year term to a four year term in order to address the concerns previously expressed regarding long-term continuity of leadership. The new vote was then initiated by the community on November 23rd, 2022, and a newly elected board was formed on January 5th, 2023. As a result, the next open community board vote will be initiated on November 23rd, 2026, and the next group of board members will assume their responsibilities on January 5th, 2027.
